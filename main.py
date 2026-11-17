@@ -558,3 +558,4 @@ class CrossingGame:
 
 if __name__ == "__main__":
     CrossingGame().run()
+    // obstacole si timer + introducere nume si clasament + pagina principala cu clasament si incepere joc
