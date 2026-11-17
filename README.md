@@ -1,17 +1,23 @@
 # Crossing Chicken
 
-Un prototip simplu de joc de traversat, facut in Python cu `tkinter`.
-Gainusa incearca sa treaca de drumuri, ape si sine de tren fara sa fie lovita.
+Un prototip de joc de traversat, facut in Python cu Pygame. Gainusa incearca
+sa treaca de drumuri, ape si sine de tren fara sa fie lovita.
 
-## Pornire
+Dependenta foloseste Pygame CE, compatibil cu API-ul Pygame.
+
+## Instalare
 
 Din terminal, in folderul proiectului, ruleaza:
 
 ```bash
-python main.py
+python -m pip install -r requirements.txt
 ```
 
-Nu este nevoie sa instalezi biblioteci externe.
+## Pornirea jocului
+
+```bash
+python main.py
+```
 
 ## Controale
 
